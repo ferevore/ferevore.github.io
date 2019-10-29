@@ -28,25 +28,14 @@ p {
 </body>
 </html>
 
-from tkinter import *
+<!DOCTYPE html>
+<html>
+<body>
 
-raam = Tk()
-raam.title("Saue lipp")
-tahvel = Canvas(raam, width=880, height=560)
+<svg height="210" width="500">
+  <polygon points="100,10 40,198 190,78 10,78 160,198" style="fill:lime;stroke:purple;stroke-width:5;fill-rule:nonzero;"/>
+  Sorry, your browser does not support inline SVG.
+</svg>
 
-tahvel.create_rectangle(0, 0, 880, 560, fill="green", outline="green")
-tahvel.create_rectangle(0, 0, 880, 290, fill='yellow', outline='yellow')
-
-i = 0
-x = 80
-while i < 15: # sobib ka for i in range(0, 15):
-    if (i % 2) == 0:
-        tahvel.create_rectangle(-80 + x, 220, 0 + x, 290, fill="green", outline="green")
-        i += 1
-        x += 80
-    else:
-        tahvel.create_rectangle(-80 + x, 220, 0 + x, 290, outline="yellow")
-        i += 1
-        x += 80
-tahvel.pack()
-raam.mainloop()'''
+</body>
+</html>
