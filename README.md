@@ -37,3 +37,34 @@ p {
 
 </body>
 </html>
+
+<html>
+<body>
+
+<h2>My first HTML Table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Year</th>
+    <th>University</th> 
+    <th>Class</th>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>TTÜ</td>
+    <td>Programming</td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>TTÜ</td>
+    <td>Law</td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>SKA</td>
+    <td>Police</td>
+  </tr>
+</table>
+
+</body>
+</html>
