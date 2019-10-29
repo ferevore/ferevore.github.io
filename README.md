@@ -32,10 +32,8 @@ p {
 <html>
 <body>
 
-<svg height="210" width="500">
-  <polygon points="100,10 40,198 190,78 10,78 160,198" style="fill:lime;stroke:purple;stroke-width:5;fill-rule:nonzero;"/>
-  Sorry, your browser does not support inline SVG.
-</svg>
+<h2>HTML Image</h2>
+<img src="world.jpg" alt="World" width="500" height="333">
 
 </body>
 </html>
