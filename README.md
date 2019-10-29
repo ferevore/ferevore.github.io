@@ -28,11 +28,11 @@ p {
 </body>
 </html>
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
-<h2>HTML Image</h2>
+<h2>WORLD</h2>
 <img src="world.jpg" alt="World" width="500" height="333">
 
 </body>
