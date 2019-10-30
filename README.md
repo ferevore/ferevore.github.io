@@ -92,10 +92,10 @@ p {
 
 
 
-<title>Please contact me below: </title>
-<Please contact me below:>
+<title>Пример HTML формы</title>
+</head>
 <body>
-<form action="https://ferevore.github.io/" method="post" name="commentform" id="commentform">
+<form action="http://ab-w.net/comments.php" method="post" name="commentform" id="commentform">
 <p><input type="text" name="author" id="author" value="" size="25" />
 <small> Name</small>
 </p>
@@ -112,7 +112,7 @@ p {
 
 
 <html>
-<Do You like my webpage?>
+Do You like my webpage?
 <body>
 <form name="hinnang" action="https://ferevore.github.io/" method="get">
 <input type="checkbox" name="hinnang" value="excellent" checked="checked" /> Excellent<br />
