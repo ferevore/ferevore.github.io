@@ -94,7 +94,7 @@ p {
 <html>
 <body>
 
-<h2>Do You like my webpage?</h2>
+<h3>Do You like my webpage?</h3>
 <form name="hinnang" action="https://ferevore.github.io/" method="get">
 <input type="checkbox" name="hinnang" value="excellent" checked="checked" /> Excellent<br />
 <input type="checkbox" name="hinnang" value="very good" /> Very good<br />
