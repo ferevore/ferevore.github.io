@@ -91,7 +91,8 @@ p {
 </html>
 
 
-<html>
+
+<title>Please contact me below: </title>
 <Please contact me below:>
 <body>
 <form action="https://ferevore.github.io/" method="post" name="commentform" id="commentform">
@@ -107,7 +108,7 @@ p {
 </p>
 </form>
 </body>
-</html>
+
 
 
 <html>
