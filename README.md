@@ -23,7 +23,7 @@ p {
 <body>
 
 <h1>About me</h1>
-<p>I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in Business Management and Law. I am an energetic and ambitious person, who responsible approach to any task that I undertake, or situation that I am presented with. I improved the performance, operations and productivity of my team. %.</p>
+<p>I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in Business Management and Law. I am an energetic and ambitious person, who responsible approach to any task that I undertake, or situation that I am presented with. I improved the performance, operations and productivity of me and my team.</p>
 
 </body>
 </html>
