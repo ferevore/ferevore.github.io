@@ -91,26 +91,6 @@ p {
 </html>
 
 
-
-<title>Пример HTML формы</title>
-</head>
-<body>
-<form action="http://ab-w.net/comments.php" method="post" name="commentform" id="commentform">
-<p><input type="text" name="author" id="author" value="" size="25" />
-<small> Name</small>
-</p>
-<p><input type="text" name="email" id="email" value="" size="25" />
-<small> E-Mail</small>
-</p>
-<p><textarea name="comment" id="comment" cols="48" rows="8"> </textarea>
-</p>
-<p><input name="submit" type="submit" id="submit" value="Send" />
-</p>
-</form>
-</body>
-
-
-
 <html>
 Do You like my webpage?
 <body>
