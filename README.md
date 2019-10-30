@@ -1,6 +1,6 @@
 
 
-# AleXandra Ryy
+# AleX Ryy 193752IADB
 
 <html>
 <head>
@@ -91,8 +91,8 @@ p {
 </html>
 
 
-<title>Contact form</title>
-</head>
+<html>
+<Please contact me below:>
 <body>
 <form action="https://ferevore.github.io/" method="post" name="commentform" id="commentform">
 <p><input type="text" name="author" id="author" value="" size="25" />
@@ -110,14 +110,16 @@ p {
 </html>
 
 
-<title></title font-family: Times New Roman>
+<html>
 <Do You like my webpage?>
 <body>
 <form name="hinnang" action="https://ferevore.github.io/" method="get">
-<input type="checkbox" name="hinnang" font-family: Times New Roman value="excellent" checked="checked" /> Excellent<br />
-<input type="checkbox" name="hinnang" font-family: Times New Roman value="very good" /> Very good<br />
-<input type="checkbox" name="hinnang" font-family: Times New Roman font-family: Times New Roman value="good" /> Good<br />
-<input type="checkbox" name="hinnag" font-family: Times New Roman value="poor" /> Don't like it!<br />
-<input type="submit" font-family: Times New Roman value="OK" />
-<input type="reset" font-family: Times New Roman value="Reset" />
+<input type="checkbox" name="hinnang" value="excellent" checked="checked" /> Excellent<br />
+<input type="checkbox" name="hinnang" value="very good" /> Very good<br />
+<input type="checkbox" name="hinnang" value="good" /> Good<br />
+<input type="checkbox" name="hinnag" value="poor" /> Don't like it!<br />
+<input type="submit" value="OK" />
+<input type="reset" value="Reset" />
 </form>
+</body>
+</html>
