@@ -90,14 +90,34 @@ p {
 </body>
 </html>
 
-<title>Do You like my webpage?</title>
+
+<title>Contact form</title>
 </head>
 <body>
-<form name="hinnang" action="http://ab-w.net/info.php" method="get">
-<input type="checkbox" name="hinnang" value="excellent" checked="checked" /> Excellent<br />
-<input type="checkbox" name="hinnang" value="very good" /> Very good<br />
-<input type="checkbox" name="hinnang" value="good" /> Good<br />
-<input type="checkbox" name="hinnag" value="poor" /> Don't like it!<br />
-<input type="submit" value="OK" />
-<input type="reset" value="Reset" />
+<form action="https://ferevore.github.io/" method="post" name="commentform" id="commentform">
+<p><input type="text" name="author" id="author" value="" size="25" />
+<small> Name</small>
+</p>
+<p><input type="text" name="email" id="email" value="" size="25" />
+<small> E-Mail</small>
+</p>
+<p><textarea name="comment" id="comment" cols="48" rows="8"> </textarea>
+</p>
+<p><input name="submit" type="submit" id="submit" value="Send" />
+</p>
+</form>
+</body>
+</html>
+
+
+<title></title font-family: Times New Roman>
+<Do You like my webpage?>
+<body>
+<form name="hinnang" action="https://ferevore.github.io/" method="get">
+<input type="checkbox" name="hinnang" font-family: Times New Roman value="excellent" checked="checked" /> Excellent<br />
+<input type="checkbox" name="hinnang" font-family: Times New Roman value="very good" /> Very good<br />
+<input type="checkbox" name="hinnang" font-family: Times New Roman font-family: Times New Roman value="good" /> Good<br />
+<input type="checkbox" name="hinnag" font-family: Times New Roman value="poor" /> Don't like it!<br />
+<input type="submit" font-family: Times New Roman value="OK" />
+<input type="reset" font-family: Times New Roman value="Reset" />
 </form>
