@@ -34,11 +34,11 @@ p {
 </html>
 
 
+
 <html>
 <body>
 
 <h5><p><a href="https://www.iea.org/media/news/2017/171113WEO2017MainImage.jpg">Image: "World Energy Outlook" </a></p></h5><img src="world.jpg" alt="World" width="500" height="333">
-
 </body>
 </html>
 
