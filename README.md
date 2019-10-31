@@ -6,7 +6,7 @@
 <head>
 <style>
 body {
-  background-color: powderpurple;
+  background-color: purple;
 }
 
 h1 {
@@ -106,7 +106,8 @@ p {
 </body>
 </html>
 
-<!DOCTYPE html>
+
+
 <html>
 <body>
 
