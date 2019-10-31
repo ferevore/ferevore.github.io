@@ -37,7 +37,7 @@ p {
 <html>
 <body>
 
-<h2>WORLD</h2>
+<h3>WORLD</h3>
 <img src="world.jpg" alt="World" width="500" height="333">
 
 </body>
@@ -117,8 +117,9 @@ p {
 <body>
 
 <h4>!!!USE THE WORLD'S LARGEST WEB DEVELOPER SITE!!!</h4>
-
+<p><a href="https://www.w3schools.com"></a></p>
 <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
+<p><a href="https://www.w3schools.com">Visit my university website!</a></p>
 
 </body>
 </html>
