@@ -6,7 +6,7 @@
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: powderpurple;
 }
 
 h1 {
@@ -23,7 +23,7 @@ p {
 <body>
 
 <h1>About me</h1>
-<p>I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in Business Management and Law. I am an energetic and ambitious person, who responsible approach to any task that I undertake, or situation that I am presented with. I improved the performance, operations and productivity of me and my team.</p>
+<p><em>I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in Business Management and Law. I am an energetic and ambitious person, who responsible approach to any task that I undertake, or situation that I am presented with. I improved the performance, operations and productivity of me and my team.</em></p>
 
 </body>
 </html>
@@ -103,5 +103,16 @@ p {
 <input type="submit" value="OK" />
 <input type="reset" value="Reset" />
 </form>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Images on Another Server</h2>
+
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
+
 </body>
 </html>
