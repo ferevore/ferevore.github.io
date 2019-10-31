@@ -14,15 +14,20 @@ h1 {
   text-align: left;
 }
 
+h2 {
+  color: purple;
+  text-align: middle;
+}
+
 p {
-  font-family: Times New Roman;
+  font-family: Colibri;
   font-size: 20px;
 }
 </style>
 </head>
 <body>
 
-<h1>About me</h1>
+<h2 style="background-color:Tomato;">About me</h2>
 <p><em>I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in Business Management and Law. I am an energetic and ambitious person, who responsible approach to any task that I undertake, or situation that I am presented with. I improved the performance, operations and productivity of me and my team.</em></p>
 
 </body>
