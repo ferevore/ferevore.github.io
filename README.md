@@ -6,7 +6,7 @@
 <head>
 <style>
 body {
-  background-color: lightpurple;
+  background-color: violet;
 }
 
 h1 {
