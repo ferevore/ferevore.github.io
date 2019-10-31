@@ -37,9 +37,8 @@ p {
 <html>
 <body>
 
-<h3>Image: "World Energy Outlook" </h3>
-<p><a href="https://www.iea.org/media/news/2017/171113WEO2017MainImage.jpg">!!!Find this image here</a></p>
-<img src="world.jpg" alt="World" width="500" height="333">
+<h3><p><a href="https://www.iea.org/media/news/2017/171113WEO2017MainImage.jpg">Image: "World Energy Outlook" </a></p></h3>
+<img src="171113WEO2017MainImage.jpg" alt="World" width="500" height="333">
 
 </body>
 </html>
