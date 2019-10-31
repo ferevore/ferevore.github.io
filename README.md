@@ -37,7 +37,8 @@ p {
 <html>
 <body>
 
-<h3>WORLD</h3>
+<h3>Image: "World Energy Outlook" </h3>
+<p><a href="https://www.iea.org/media/news/2017/171113WEO2017MainImage.jpg">!!!Find this image here</a></p>
 <img src="world.jpg" alt="World" width="500" height="333">
 
 </body>
@@ -116,10 +117,10 @@ p {
 <html>
 <body>
 
-<h4>!!!USE THE WORLD'S LARGEST WEB DEVELOPER SITE!!!</h4>
+
 <p><a href="https://www.w3schools.com"></a></p>
 <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
-<p><a href="https://www.w3schools.com">Visit my university website!</a></p>
+<p><a href="https://www.w3schools.com">!!!USE THE WORLD'S LARGEST WEB DEVELOPER SITE!!!</a></p>
 
 </body>
 </html>
