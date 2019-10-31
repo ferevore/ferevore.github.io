@@ -6,7 +6,7 @@
 <head>
 <style>
 body {
-  background-color: SlateBlue;
+  background-color: PowderBlue;
 }
 
 h1 {
