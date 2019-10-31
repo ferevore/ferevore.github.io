@@ -6,7 +6,7 @@
 <head>
 <style>
 body {
-  background-color: violet;
+  background-color: SlateBlue;
 }
 
 h1 {
@@ -37,8 +37,8 @@ p {
 <html>
 <body>
 
-<h3><p><a href="https://www.iea.org/media/news/2017/171113WEO2017MainImage.jpg">Image: "World Energy Outlook" </a></p></h3>
-<img src="171113WEO2017MainImage.jpg" alt="World" width="500" height="333">
+<h5><p><a href="https://www.iea.org/media/news/2017/171113WEO2017MainImage.jpg">Image: "World Energy Outlook" </a></p></h5>
+<img src="world.jpg" alt="World" width="500" height="333">
 
 </body>
 </html>
