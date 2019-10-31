@@ -15,7 +15,7 @@ h1 {
 }
 
 h2 {
-  color: purple;
+  color: DodgerBlue;
   text-align: middle;
 }
 
