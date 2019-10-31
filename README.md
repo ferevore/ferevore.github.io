@@ -15,7 +15,7 @@ h1 {
 }
 
 h2 {
-  color: DarkBlue;
+  color: red;
   text-align: middle;
 }
 
